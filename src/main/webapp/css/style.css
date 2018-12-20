@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+*{
+	margin:0p;
+	padding:0;
+}
+
+body{
+	background-color: black;
+ 	/*background-image:url("resources/img/blog.jpg");*/ 
+	text-align:center;
+	color: #ffffff;
+}
+
+h1 {
+	font-size: 10em;
+	margin-top: 25%;
+}
+
+
+
+
